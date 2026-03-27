@@ -4,12 +4,6 @@ The architecture was inspired by [U-Net: Convolutional Networks for Biomedical I
 
 ---
 
-## 先打个广告
-PDD 2026年暑期实习开启，有大模型，算法，研发等多个技术岗位，内推码如下：
-![img/实习all.png](img/实习all.png)
-
-PDD 2026届校招，包括技术和非技术所有岗位，内推码如下：
-![img/校招all.png](img/校招all.png)
 ## Overview
 
 ### Data
